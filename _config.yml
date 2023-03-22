@@ -15,5 +15,3 @@ baseurl: "/CSC450SeniorResearch/"
 # Build settings
 markdown: kramdown
 timezone: America/New_York
-course: /CSC450SeniorResearch/
-type: one
